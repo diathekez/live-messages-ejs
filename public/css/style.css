@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Buda&display=swap');
+
+body{
+    font-family: 'Buda', monospace;
+}
+
+/*
+.completed{
+    text-decoration: line-through;
+    color: gray;
+    margin-right: 50px;
+}
+.not{
+    text-decoration: underline;
+    margin-right: 50px;
+}
+p{
+    margin: 10px 0 !important;
+}
+
+.todo-container{
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 50px;
+    text-align: center;
+} */
