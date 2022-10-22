@@ -3,7 +3,7 @@ This is a CRUD app that was part of a project I had to do for a humanities class
 
 **Link to project:** https://habla-good.herokuapp.com/
 
-![alt tag](#)
+![Habla Good screenshot](https://raw.githubusercontent.com/diathekez/live-messages-ejs/master/public/habla-good_screenshot.png)
 
 ## How It's Made:
 
