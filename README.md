@@ -1,7 +1,7 @@
 # Habla Good
 This is a CRUD app that was part of a project I had to do for a humanities class in college. The project itself was to promote random positivity among people by having them take and leave positive messages. This web app was one such place where users could leave messages for others to read.
 
-**Link to project:** IN PROGRESS
+**Link to project:** https://habla-good.herokuapp.com/
 
 ![alt tag](#)
 
