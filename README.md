@@ -1,7 +1,10 @@
 # Habla Good
+
 This is a CRUD app that was part of a project I had to do for a humanities class in college. The project itself was to promote random positivity among people by having them take and leave positive messages. This web app was one such place where users could leave messages for others to read.
 
 **Link to project:** https://habla-good.herokuapp.com/
+
+**NOTE:** All projects are currently being migrated out of Heroku.
 
 ![Habla Good screenshot](https://raw.githubusercontent.com/diathekez/live-messages-ejs/master/public/habla-good_screenshot.png)
 
@@ -12,6 +15,7 @@ This is a CRUD app that was part of a project I had to do for a humanities class
 This is a basic CRUD app that has a DB attached to it that doesn't require two separate deployments. So you can deploy it on Heroku, Vercel, or etc. without the need of having a front-end and a back-end. [DaisyUI](https://daisyui.com/) (a Tailwind component library) was used to style it.
 
 ## Other Projects:
+
 Take a look at these couple examples that I have in my own portfolio:
 
 **Precrastinator:** https://github.com/diathekez/precrastinator
