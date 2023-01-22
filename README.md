@@ -4,8 +4,6 @@ This is a CRUD app that was part of a project I had to do for a humanities class
 
 **Link to project:** https://habla-good.herokuapp.com/
 
-**NOTE:** All projects are currently being migrated out of Heroku.
-
 ![Habla Good screenshot](https://raw.githubusercontent.com/diathekez/live-messages-ejs/master/public/habla-good_screenshot.png)
 
 ## How It's Made:
