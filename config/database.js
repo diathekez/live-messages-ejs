@@ -17,6 +17,7 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+// This line is necessary for Railway
 exports.connectDB = connectDB;
 
 // This script connects to MongoDB on serverless cloud services
