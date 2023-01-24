@@ -8,7 +8,7 @@ This is a CRUD app that was part of a project I had to do for a humanities class
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, EJS, MongoDB, Tailwind
+**Tech used:** HTML, CSS, JavaScript, EJS, MongoDB, Tailwind, Railway
 
 This is a basic CRUD app that has a DB attached to it that doesn't require two separate deployments. So you can deploy it on Heroku, Vercel, or etc. without the need of having a front-end and a back-end. [DaisyUI](https://daisyui.com/) (a Tailwind component library) was used to style it.
 
